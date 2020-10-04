@@ -1,5 +1,5 @@
 body {
-  color: #19197a;
+  color: azure;
   background: lightsteelblue;
   text-align: left;
   font-family: 'Helvetica', 'Arial', sans-serif;
@@ -20,13 +20,13 @@ body {
     margin-top: 10px;
     margin-bottom: 0px; }
   body p {
-    color: #19197a;
+    color: azure;
     padding-right: 30px; }
   body ul {
     list-style-type: disc; }
   body a {
     text-decoration: underline; }
     body a:hover {
-      color: #19197a; }
+      color: azure; }
   body img {
     border-radius: 50%; }
